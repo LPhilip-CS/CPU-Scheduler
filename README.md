@@ -1,4 +1,6 @@
-# CPU-Scheduler
+# CPU-Scheduler 🖥️
+![CPUSchedulingAlgorithmsinOperatingSystem20220728121750-small](https://github.com/LPhilip-CS/CPU-Scheduler/assets/98559773/e660115e-a41f-44db-89c4-6d013bd0d567)
+
  Analyze process scheduling algorithms used in practical operating systems. Created in Excel and VBA
 ![CS 4323 Group Project Written Report-01](https://user-images.githubusercontent.com/98559773/228287752-19258882-8162-4046-a340-626594240cff.jpg)
 ![CS 4323 Group Project Written Report-04](https://user-images.githubusercontent.com/98559773/228287756-405362ff-ac48-4f28-9332-5436f070783e.jpg)
